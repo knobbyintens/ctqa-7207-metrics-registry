@@ -1,0 +1,22 @@
+{
+  "cycle": "2026-Q3",
+  "site": "Northwind Contact Operations",
+  "scale": "0.000-1.000",
+  "scores": {
+    "first_contact_resolution": 0.823,
+    "customer_satisfaction": 0.907,
+    "average_handle_time": 0.694,
+    "agent_empathy": 0.816,
+    "sla_compliance": 0.941,
+    "resolution_confirmation": 0.781,
+    "escalation_precision": 0.758,
+    "compliance_adherence": 0.963,
+    "knowledge_accuracy": 0.872,
+    "data_privacy_handling": 0.952,
+    "hold_mute_discipline": 0.552,
+    "call_opening_quality": 0.649,
+    "cross_sell_restraint": 0.815,
+    "tone_consistency": 0.816,
+    "issue_diagnosis": 0.727
+  }
+}
